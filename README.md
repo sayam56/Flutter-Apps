@@ -13,6 +13,7 @@ This is a mother repository for all the flutter projects I did while learning va
 <li> <a href="https://github.com/sayam56/Flutter---Tech-News"> Tech News - A Flutter application with an integrated API that shows the latest tech News. </a></li>
 <li> <a href="https://github.com/sayam56/Flutter--NoteKeeper"> Note Keeper - A note taking application utilizing SQlite and focusing on CRUD operations. </a></li>
   <li> <a href="https://github.com/sayam56/Flutter--PersonalityTest"> Personality Test - A very beginner flutter application utilizing maps, lists to capture the concepts. </a></li>
+<li> <a href="https://github.com/sayam56/Flutter--RealTimeObjectDetection"> Realtime Object Detection - An advanced flutter application with realtime object detection using tensorflow. </a></li>
 </ol>
 
 
