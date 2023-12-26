@@ -14,6 +14,7 @@ This is a mother repository for all the flutter projects I did while learning va
 <li> <a href="https://github.com/sayam56/Flutter--NoteKeeper"> Note Keeper - A note taking application utilizing SQlite and focusing on CRUD operations. </a></li>
   <li> <a href="https://github.com/sayam56/Flutter--PersonalityTest"> Personality Test - A very beginner flutter application utilizing maps, lists to capture the concepts. </a></li>
 <li> <a href="https://github.com/sayam56/Flutter--RealTimeObjectDetection"> Realtime Object Detection - An advanced flutter application with realtime object detection using tensorflow. </a></li>
+<li> <a href="https://github.com/sayam56/skill-quest-mobile"> Skill Quest Mobile - An advanced flutter online learning platform for interest-based learning. </a></li>
 </ol>
 
 
